@@ -1,0 +1,23 @@
+.Blog ul {
+    list-style: none; /* remove line dot */ 
+    margin: 20px;
+    padding: 25px;
+    text-align: center;
+}
+
+.Blog li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.Blog a {
+    text-decoration: none; /* remove underline */ 
+    font-size: large;
+    color: brown;
+}
+
+.Blog a:hover,
+.Blog a:active {
+    color:orangered;
+}
+
